@@ -1,0 +1,13 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[B01 s0] ep  1 train_loss 1.6549 val_loss 1.2657 F1 0.1942 top1 0.5547 (35s)
+[B01 s0] ep  2 train_loss 0.9751 val_loss 0.7954 F1 0.5802 top1 0.7149 (32s)
+[B01 s0] ep  3 train_loss 0.6976 val_loss 0.6108 F1 0.6988 top1 0.7889 (32s)
+[B01 s0] ep  4 train_loss 0.5830 val_loss 0.5489 F1 0.7436 top1 0.8118 (33s)
+[B01 s0] ep  5 train_loss 0.5101 val_loss 0.5238 F1 0.7566 top1 0.8243 (34s)
+[B01 s0] ep  6 train_loss 0.4768 val_loss 0.4910 F1 0.7722 top1 0.8349 (34s)
+[B01 s0] ep  7 train_loss 0.4411 val_loss 0.4760 F1 0.7774 top1 0.8400 (34s)
+[B01 s0] ep  8 train_loss 0.4230 val_loss 0.4753 F1 0.7749 top1 0.8386 (34s)
+[B01 s0] ep  9 train_loss 0.4184 val_loss 0.4750 F1 0.7754 top1 0.8395 (34s)
+[B01 s0] ep 10 train_loss 0.4096 val_loss 0.4662 F1 0.7841 top1 0.8429 (34s)
+QUEUE {"exp_id": "B01", "status": "ok", "val_macro_f1": 0.7840761483385995, "min": 7.268623876571655}
+QUEUE DONE

@@ -1,0 +1,12 @@
+B01 resnet50 fp32 p50 7.74 ms p95 11.89 ms
+B01 resnet50 amp p50 6.92 ms p95 7.95 ms
+B02 convnext_tiny fp32 p50 5.70 ms p95 8.00 ms
+B02 convnext_tiny amp p50 7.58 ms p95 9.46 ms
+B03 deit_small_patch16_224 fp32 p50 5.01 ms p95 5.38 ms
+B03 deit_small_patch16_224 amp p50 6.25 ms p95 10.07 ms
+B04 swin_tiny_patch4_window7_224 fp32 p50 13.81 ms p95 18.29 ms
+B04 swin_tiny_patch4_window7_224 amp p50 16.49 ms p95 20.78 ms
+B05 efficientnet_b0 fp32 p50 8.18 ms p95 9.79 ms
+B05 efficientnet_b0 amp p50 10.52 ms p95 12.20 ms
+B06 mobilenetv3_large_100 fp32 p50 6.59 ms p95 9.43 ms
+B06 mobilenetv3_large_100 amp p50 8.47 ms p95 9.24 ms

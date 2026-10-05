@@ -1,0 +1,8 @@
+{
+  "initial_loss_resnet50_pretrained_newhead": 2.180311620235443,
+  "ln9": 2.1972245773362196,
+  "overfit_16_images_loss_first_last": [
+    2.218000650405884,
+    0.00014885887503623962
+  ]
+}

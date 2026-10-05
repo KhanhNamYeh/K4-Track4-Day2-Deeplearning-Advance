@@ -1,0 +1,30 @@
+Tải images.zip ...
+MD5 OK: b7b30f96d466fba86016aa5a26606e0f
+Số file ảnh: 17509
+Số ảnh: {'train': 10501, 'val': 3501, 'test': 3507} | tỉ lệ: {'train': 0.5997, 'val': 0.2, 'test': 0.2003}
+                train   val  test  total
+Chinee Apple      675   225   226   1126
+Lantana           637   213   213   1063
+Parkinsonia       618   206   207   1031
+Parthenium        613   204   205   1022
+Prickly Acacia    637   212   213   1062
+Rubber Vine       605   202   202   1009
+Siam Weed         644   215   215   1074
+Snake Weed        609   203   204   1016
+Negatives        5463  1821  1822   9106
+Giao: {'train&val': 0, 'train&test': 0, 'val&test': 0} | hợp: 17509 | file thiếu: 0
+                train   val  test  total  paper_table1  diff_vs_paper
+Chinee Apple      675   225   226   1126          1125              1
+Lantana           637   213   213   1063          1064             -1
+Parkinsonia       618   206   207   1031          1031              0
+Parthenium        613   204   205   1022          1022              0
+Prickly Acacia    637   212   213   1062          1062              0
+Rubber Vine       605   202   202   1009          1009              0
+Siam Weed         644   215   215   1074          1074              0
+Snake Weed        609   203   204   1016          1016              0
+Negatives        5463  1821  1822   9106          9106              0
+Giải mã 17509 ảnh vào cache data/images_uint8_17509.npy (chỉ chạy một lần)...
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loss ban đầu: 2.1803 (ln 9 = 2.1972)
+Overfit 16 ảnh: loss 2.2180 -> 0.000149
+BƯỚC 0 XONG
