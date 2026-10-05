@@ -26,5 +26,5 @@ Negatives        5463  1821  1822   9106          9106              0
 Giải mã 17509 ảnh vào cache data/images_uint8_17509.npy (chỉ chạy một lần)...
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 Loss ban đầu: 2.1803 (ln 9 = 2.1972)
-Overfit 16 ảnh: loss 2.2180 -> 0.000149
+Overfit 16 ảnh: loss 2.2180 -> 0.000152
 BƯỚC 0 XONG

@@ -1,0 +1,16 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/content/lab/code/train.py:196: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  scheduler.step()
+[T00 s0] ep  1 train_loss 0.7622 val_loss 0.3225 F1 0.8573 top1 0.8946 (62s)
+[T00 s0] ep  2 train_loss 0.2961 val_loss 0.2167 F1 0.9108 top1 0.9303 (48s)
+[T00 s0] ep  3 train_loss 0.2234 val_loss 0.2005 F1 0.9183 top1 0.9369 (47s)
+[T00 s0] ep  4 train_loss 0.1727 val_loss 0.1580 F1 0.9357 top1 0.9520 (48s)
+[T00 s0] ep  5 train_loss 0.1457 val_loss 0.1360 F1 0.9473 top1 0.9574 (48s)
+[T00 s0] ep  6 train_loss 0.1103 val_loss 0.1628 F1 0.9385 top1 0.9509 (48s)
+[T00 s0] ep  7 train_loss 0.0721 val_loss 0.0990 F1 0.9655 top1 0.9732 (47s)
+[T00 s0] ep  8 train_loss 0.0625 val_loss 0.0954 F1 0.9650 top1 0.9737 (47s)
+[T00 s0] ep  9 train_loss 0.0446 val_loss 0.0914 F1 0.9676 top1 0.9760 (47s)
+[T00 s0] ep 10 train_loss 0.0433 val_loss 0.0953 F1 0.9661 top1 0.9749 (47s)
+QUEUE {"exp_id": "T00", "status": "ok", "val_macro_f1": 0.9675884081376529, "min": 10.496363925933839}
+QUEUE DONE
+CHAIN_END
